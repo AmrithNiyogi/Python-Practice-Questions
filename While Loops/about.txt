@@ -1,0 +1,23 @@
+This file contains program in python that are implemented using while loops only.
+
+There are 10 questions in this list: 
+
+1. Sum of Natural Numbers: Write a program that calculates the sum of the first \( n \) natural numbers (where \( n \) is a user-provided input) using a while loop.
+
+2. Factorial Calculation: Create a program that computes the factorial of a given number using a while loop.
+
+3. Fibonacci Sequence: Generate the first \( n \) numbers in the Fibonacci sequence (where \( n \) is a user-provided input) using a while loop.
+
+4. Guessing Game: Implement a simple guessing game where the program randomly selects a number between 1 and 100, and the user has to guess it. The program should provide feedback whether the guess is too high or too low until the user guesses correctly.
+
+5. Reverse Digits: Write a program that takes an integer as input and reverses its digits using a while loop.
+
+6. Sum of Digits: Create a program that calculates the sum of the digits of a given integer using a while loop.
+
+7. Collatz Conjecture: Implement the Collatz conjecture sequence. Starting with a positive integer \( n \), repeatedly apply the rule: \( n = n / 2 \) if \( n \) is even, and \( n = 3n + 1 \) if \( n \) is odd, until \( n \) becomes 1.
+
+8. User Authentication: Simulate a simple user authentication process. Prompt the user to enter a password and keep asking until they enter the correct password (predefined in the code).
+
+9. Prime Number Check: Write a program that checks if a given number is prime using a while loop.
+
+10. Countdown Timer: Implement a countdown timer that starts from a user-defined number of seconds and counts down to zero, displaying each
