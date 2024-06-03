@@ -1,6 +1,6 @@
-# Python-Practice-Questions
+# Python Practice Questions
 
-This repository contains a collection of Python practice questions to help you improve your programming skills. The questions are categorized into Basic Operations, Conditional Statements, For Loops, and While Loops. Each category includes a variety of problems designed to cover fundamental programming concepts.
+This repository contains Python practice questions to help you improve your programming skills. The questions are categorized into Basic Operations, Conditional Statements, For Loops, and While Loops. Each category includes a variety of problems designed to cover fundamental programming concepts.
 
 ## Basic Operations
 1. **Addition:** Write a Python program to add two numbers.
@@ -22,8 +22,8 @@ This repository contains a collection of Python practice questions to help you i
 4. **Leap Year Check:** Write a program to check if a year is a leap year.
 5. **Vowel or Consonant:** Write a program to check if a character is a vowel or consonant.
 6. **Palindrome Check:** Write a program to check if a string is a palindrome.
-7. **Divisibility Check:** Write a Python script to check if a number is divisible by both 3 and 5.
-8. **Voting Eligibility:** Write a program to determine if a person is eligible to vote based on their age.
+7. **Divisibility Check:** Write a Python script to check if a number is divisible by 3 and 5.
+8. **Voting Eligibility:** Write a program to determine if a person is eligible to vote based on age.
 9. **Triangle Classification:** Write a program to classify a triangle as equilateral, isosceles, or scalene.
 10. **Uppercase String Check:** Write a program to check if a string contains only uppercase letters.
 11. **Anagram Check:** Write a program to check if two strings are anagrams.
