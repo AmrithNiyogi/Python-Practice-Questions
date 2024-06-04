@@ -1,20 +1,16 @@
-import math as m
-
-
 def triplet(a, b, c):
-    if (m.pow(a, 2) + m.pow(b, 2) == m.pow(c, 2) or
-            m.pow(b, 2) + m.pow(c, 2) == m.pow(a, 2) or
-            m.pow(a, 2) + m.pow(c, 2) == m.pow(b, 2)):
-        return True
-    else:
-        return False
+    sides = [a, b, c]
+    sides.sort()
+    return sides[0]**2 + sides[1]**2 == sides[2]**2
 
 
 if __name__ == '__main__':
-    side1 = int(input("Enter the first number: "))
-    side2 = int(input("Enter the second number: "))
-    side3 = int(input("Enter the third number: "))
-    if triplet(side1, side2, side3):
-        print(f"{side1}, {side2}, {side3} form a Pythagorean Triplet")
+    numbers = []
+    for i in range(3):
+        num = int(input(f"Enter number {i + 1}: "))
+        numbers.append(num)
+
+    if triplet(numbers[0], numbers[1], numbers[2]):
+        print(f"The numbers {numbers} form a Pythagorean triplet.")
     else:
-        print(f"{side1}, {side2}, {side3} do not form a Pythagorean Triplet")
+        print(f"The numbers {numbers} do not form a Pythagorean triplet.")
