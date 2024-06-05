@@ -174,5 +174,5 @@ This repository contains Python practice questions to help you improve your prog
 ### 15. Tuples with Different Data Types:
 - Create a tuple containing a string, a number, and a list: `("Python", 3.8, [1, 2, 3])`.
 - Access and print each element in the tuple.
-- 
+  
 Feel free to explore and solve these problems to practice and enhance your Python programming skills.
