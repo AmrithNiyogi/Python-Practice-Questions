@@ -2,7 +2,7 @@
 
 This repository contains Python practice questions to help you improve your programming skills. The questions are categorized into Basic Operations, Conditional Statements, For Loops, and While Loops. Each category includes a variety of problems designed to cover fundamental programming concepts.
 
-## Basic Operations
+- [Basic Operations](basic-operations)
 
 
 ## Conditional Statements
