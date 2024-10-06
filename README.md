@@ -18,7 +18,7 @@ This repository contains Python practice questions to help you improve your prog
 
 ---
 
-## Additional Topics
+## Upcoming Topics
 
 - **Dictionaries**: Questions to practice working with key-value pairs, dictionary methods, and how to effectively manipulate dictionaries.
   
