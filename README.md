@@ -69,6 +69,6 @@ You are allowed to:
 - **View and practice** the questions for personal use.
 - **Credit**: Please attribute the content by linking to this repository if you use it in any non-commercial context.
 
-For additional permissions (commercial use, redistribution, or modifications), please contact [your email/contact info].
+For additional permissions (commercial use, redistribution, or modifications), please contact Amrith Niyogi - amrithniyogi25@gmail.com.
 
 ---
